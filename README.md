@@ -6,6 +6,14 @@ A multithreaded **Port Scanner** built using Python that scans a custom range of
 
 ---
 
+## 📺 Demo Video
+
+See the port scanner in action:
+
+[![Watch the video](https://img.youtube.com/vi/KVJ4eIZ102A/0.jpg)](https://youtu.be/KVJ4eIZ102A)
+
+---
+
 ## 📌 Features
 
 * Accepts target IP/domain and port range via input
