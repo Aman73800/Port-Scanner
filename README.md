@@ -18,13 +18,8 @@ See the port scanner in action:
 
 Below is an example of the scanner running on **www.google.com**, scanning ports 20 to 120:
 
-![Port Scanner Output]([https://user-images.githubusercontent.com/your-username/your-repo/output-screenshot.png](https://github.com/Aman73800/Port-Scanner/blob/main/port.png))
+![Port Scanner Output](https://github.com/Aman73800/Port-Scanner/blob/main/port.png)
 
-> *(You can replace this image URL with the actual file in your repository or use the example image below)*
-
-**Example Image (from your screenshot):**
-
-![Example Output]([https://github.com/Aman73800/Port-Scanner/blob/main/port1.png])
 
 ---
 
